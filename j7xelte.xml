@@ -2,10 +2,10 @@
 
 <manifest>
 <!-- Device Tree -->
-<project name="MissionJ2/android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="github" revision="cm-14.1" />
-     
+<project name="Exynos7870/android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="github" revision="cm-14.1" />
+<project name="Exynos7870/android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="github" revision="cm-14.1" />
 <!-- Vendor Source -->
-<project name="LineageOS/android_vendor_samsung_j7xelte" path="vendor/samsung/j7xelte" remote="github" revision="cm-14.1" />
+<project name="Exynos7870/android_vendor_samsung_exynos7870-common" path="vendor/samsung/exynos7870-common" remote="github" revision="cm-14.1" />
 
 <!-- Hardware Sources -->
 <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="cm-14.1" />
