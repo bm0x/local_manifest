@@ -9,7 +9,6 @@
 ## Credits
 
 Copyright (C) 2017 Matthieu <mcfy49@zeroside.com><br>
-Copyright (C) 2017 Victor Lourme <contact@zeroside.co>
 
 ## Donations
 
