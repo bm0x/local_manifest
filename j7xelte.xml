@@ -3,7 +3,7 @@
 <manifest>
 <!-- Device Tree -->
 <project name="Exynos7870/android_device_samsung_j7xelte" path="device/samsung/j7xelte" remote="github" revision="cm-14.1" />
-<project name="Exynos7870/android_device_samsung_exynos7870-common-common" path="device/samsung/exynos7870-common" remote="github" revision="cm-14.1" />
+<project name="Exynos7870/android_device_samsung_exynos7870-common" path="device/samsung/exynos7870-common" remote="github" revision="cm-14.1" />
   
 <!-- Vendor Source -->
 <project name="Exynos7870/android_vendor_samsung_j7xelte" path="vendor/samsung/j7xelte" remote="github" revision="cm-14.1" />
@@ -16,7 +16,7 @@
 <project name="LineageOS/android_hardware_samsung_slsi-cm_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="cm-14.1" />
   
 <!-- Kernel Source -->
-<project name="Exynos7870/android_kernel_samsung_exynos7870-common" path="kernel/samsung/exynos7870" remote="github" revision="master" />
+<project name="Exynos7870/android_kernel_samsung_exynos7870-common" path="kernel/samsung/exynos7870" remote="github" revision="cm-14.1" />
 
 <!-- Other Complements -->
 <project name="LineageOS/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-14.1" />
