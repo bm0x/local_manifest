@@ -7,7 +7,7 @@
   
 <!-- Vendor Source -->
 <project name="samsung-r8x/proprietary_vendor_samsung_r8s" path="vendor/samsung/r8s" remote="github" revision="lineage-19.0" />
-<project name="Exynoobs/proprietary_vendor_samsung_exynos990-common" path="vendor/samsung/exynos990-common" remote="github" revision="lineage-19.0" />
+<project name="samsung-r8x/android_vendor_samsung_exynos990-common" path="vendor/samsung/exynos990-common" remote="github" revision="lineage-19.0" />
 
 <!-- SEpolicy Source -->
 <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-19.0" />
