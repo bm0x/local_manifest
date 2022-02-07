@@ -12,13 +12,12 @@
 <!-- SEpolicy Source -->
 <project name="LineageOS/android_device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" remote="github" revision="lineage-19.0" />
 
-<!-- Hardware Sources -->
-<project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-19.0" />
+<!-- Hardware Sources --
 <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" remote="github" revision="lineage-19.0" />
 <project name="LineageOS/android_hardware_samsung_slsi_libbt" path="hardware/samsung_slsi/libbt" remote="github" revision="lineage-19.0" />
 <project name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" remote="github" revision="lineage-19.0" />
   
 <!-- Kernel Source -->
-<project name="samsung-r8x/android_kernel_samsung_exynos990" path="kernel/samsung/exynos990" remote="github" revision="lineage-19.0" />
+<project name="pascua28/android_kernel_samsung_s20fe" path="kernel/samsung/exynos990" remote="github" revision="exynos" />
 
 </manifest>
